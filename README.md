@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a robotics and AI enthusiast who's also an artist. Always looking for ways to creatively solve problems and bring people and tech together.<br><br>- 🔭 Currently learning about agentic AI<br>- 📚 Full-time college student<br>- ⚡ In my free time I paint, draw, and journal</p>
+<p align="left">I'm an Electrical Engineering student at Caltech interested in robotics. Always looking for ways to creatively solve problems.<br><br>- 📚 Full-time college student<br>- ⚡ In my free time I paint, draw, and journal</p>
 
 ###
 
